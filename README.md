@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🌱 A complete beginner, still covering my basics
+- have tried python (google colab, jupyter notebook), go, c++
+- have interest in AI and ML but don't know where to start 🤔
+.
+.
+.
+.
+.
+Also, I like memes
+![memememememe](https://media.discordapp.net/attachments/867065663078924309/1039400816332779520/RDT_20221022_1608471850861156931126188.jpg)
 <!--
 **pandu-p/pandu-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
